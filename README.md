@@ -1,6 +1,6 @@
 # Building-an-Azure-Data-Warehouse-for-Bike-Share-Data-Analytics
 
-Building an Azure Data Warehouse for Bike Share Data Analytics
+
 Project Overview
 This project demonstrates the implementation of a modern cloud-based data warehouse solution using Microsoft Azure services. The project involves designing and implementing a complete ETL (Extract, Transform, Load) pipeline that transforms operational bike share data from a PostgreSQL database into a dimensional data warehouse optimized for analytics.
 Business Context
