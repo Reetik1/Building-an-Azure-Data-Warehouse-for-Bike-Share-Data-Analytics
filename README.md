@@ -66,13 +66,15 @@ The data warehouse implements a **star schema** with the following structure:
 - Analyzed business requirements  
 - Designed star schema with 2 fact tables and 3 dimension tables  
 - Optimized for analytical query performance  
+![copy star schema](https://github.com/user-attachments/assets/1b02f0b6-112b-44ec-b3b9-5a4932c04ad2)
+
 
 ###  Task 3: Source Data Preparation
 - Populated PostgreSQL with bike share operational data  
 - Verified data integrity across all source tables  
 - Established baseline for ETL validation
-- [Task3](https://github.com/user-attachments/assets/a1ad1154-2633-4cc0-b553-7a121eb0d237)
-  ![Task4copy](https://github.com/user-attachments/assets/27952365-77d6-4699-8091-8969a8cc4f71)
+- ![Task3](https://github.com/user-attachments/assets/a1ad1154-2633-4cc0-b553-7a121eb0d237)
+  
 
 
 
@@ -84,7 +86,7 @@ The data warehouse implements a **star schema** with the following structure:
   - `public.rider.csv`  
   - `public.station.csv`  
   - `public.trip.csv`  
-
+![Task4copy](https://github.com/user-attachments/assets/27952365-77d6-4699-8091-8969a8cc4f71)
 ###  Task 5: Data Loading (Staging Layer)
 - Created external tables pointing to Blob Storage files  
 - Implemented serverless SQL pool external table architecture  
